@@ -7,7 +7,6 @@
 - Дата создания (автоматически устанавливается при создании заметки)
 Как работает приложение:
 
-![2024-07-13_00-13-08](https://github.com/user-attachments/assets/89c45fe5-4d0f-4efd-9572-d1046c1110be)
 
 ![2024-07-13_00-06-05](https://github.com/user-attachments/assets/326b872a-9d9f-4532-992d-9edda5988f2e)
 
@@ -28,6 +27,8 @@
 ![2024-07-13_00-12-40](https://github.com/user-attachments/assets/aad37d42-6db6-4d87-8b93-03867c16920c)
 
 ![2024-07-13_00-12-53](https://github.com/user-attachments/assets/a4d16eca-9436-4f71-9c79-1d65b81b5a75)
+
+![2024-07-13_00-13-08](https://github.com/user-attachments/assets/89c45fe5-4d0f-4efd-9572-d1046c1110be)
 
 
 
